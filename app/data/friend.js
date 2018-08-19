@@ -24,4 +24,6 @@ var friendList = [{
   "scores": ["5", "1", "3", "5", "1", "5", "5", "5", "1", "1"]
 }];
 
+
+
 module.exports = friendList;
